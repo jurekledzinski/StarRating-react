@@ -1,0 +1,7 @@
+.fa-star {
+  cursor: pointer;
+}
+
+.active {
+  color: yellow;
+}
